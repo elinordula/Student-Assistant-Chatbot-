@@ -1,4 +1,5 @@
-Student Assistance Chatbot
+Student Assistance Chatbot: 
+
 An AI-powered chatbot designed to assist students with academic inquiries, department details, and general campus information using Natural Language Processing (NLP) and Machine Learning (ML).
 
 Features
