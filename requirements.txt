@@ -1,0 +1,4 @@
+flask
+tensorflow-cpu
+nltk
+# Add any other dependencies here
